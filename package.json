@@ -1,0 +1,25 @@
+{
+  "name": "hello-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony-Liuduan/hello-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony-Liuduan/hello-puppeteer/issues"
+  },
+  "homepage": "https://github.com/Tony-Liuduan/hello-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
